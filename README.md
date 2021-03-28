@@ -1,2 +1,2 @@
-# simpleDND
-Simple DND screen example application for BipOS 0.5.5+
+# Simple DND
+Simple DND screen for BipOS 0.5.5+
